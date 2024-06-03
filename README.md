@@ -3,7 +3,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/premium-vector/welcoming-woman-girl-saying-hello-waving-with-hand-vector-flat-illustration_605517-721.jpg?w=360)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codegungun7&label=Profile%20views&color=0e75b6&style=flat" alt="codegungun7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codegungun7" alt="codegungun7" /></a> </p>
